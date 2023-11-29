@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
+![logo](https://drive.google.com/file/d/19__ibDTsRVXhH4yazeFl5cFuEVZ0yWfr/view?usp=sharing)
 
 # 💫 About Me:
 - 👋 Hi, I’m @Mubeen-Channa
