@@ -1,4 +1,4 @@
-![logo](https://drive.google.com/file/d/19__ibDTsRVXhH4yazeFl5cFuEVZ0yWfr/view?usp=sharing)
+![logo](https://github.com/Mubeen-Channa/Mubeen-Channa/blob/main/Github%20Profile%20Giff.gif?raw=true)
 
 # 💫 About Me:
 - 👋 Hi, I’m @Mubeen-Channa
