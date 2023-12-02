@@ -1,6 +1,6 @@
 ![logo](https://github.com/Mubeen-Channa/Mubeen-Channa/blob/main/Github%20Profile%20Giff.gif?raw=true)
 
-# 💫 About Me:
+# 💫 About Me: 
 - 👋 Hi, I’m @Mubeen-Channa
 - 😎 Want to be a Software Engineer
 - 👀 I’m currently working on something cool 🔥
@@ -10,7 +10,7 @@
 ### - ⚡ Fun fact I am Khushkuro 🥴
 
 
-
+a
 
 
 <!---
