@@ -10,7 +10,6 @@
 ### - ⚡ Fun fact I am Khushkuro 🥴
 
 
-a
 
 
 <!---
