@@ -30,7 +30,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mubeen-Channa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
+<br></br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mubeen-Channa&theme=dark&hide_border=false)<br/>
 <br></br>
 <!---
 Mubeen-Channa/Mubeen-Channa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
