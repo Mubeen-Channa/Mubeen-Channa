@@ -52,7 +52,9 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-<br></br>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Mubeen-Channa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!---
 Mubeen-Channa/Mubeen-Channa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
