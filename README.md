@@ -1,4 +1,10 @@
-![logo](https://github.com/Mubeen-Channa/Mubeen-Channa/blob/main/Github%20Profile%20Giff.gif?raw=true)
+<h1 align="center">Hello 👋, This is Muhammad Mubeen<h1/>
+<h3 align="center">A Passionate Software Engineer From Pakistan<h3/>
+  
+<img align="right" alt="coding" width="400px"  src="https://github.com/Mubeen-Channa/Mubeen-Channa/blob/main/Github%20Profile%20Giff.gif?raw=true">
+
+---
+[![](https://visitcount.itsvg.in/api?id=Mubeen-Channa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me: 
 - 👋 Hi, I’m @Mubeen-Channa
@@ -7,6 +13,7 @@
 - 🌱 Exploring Data Structures & Algoritms
 - 📫 Instagram ~~> @mubeen__channa
 - 🏚️ Hometown : Larkana, Sindh, Pakistan
+
 ### - ⚡ Fun fact I am Khushkuro 🥴
 <br></br>
 
@@ -53,11 +60,10 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Mubeen-Channa&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ---
-YoYoYo
+YoYo
 <!---
 Mubeen-Channa/Mubeen-Channa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
