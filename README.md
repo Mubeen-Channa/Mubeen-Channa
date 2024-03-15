@@ -58,9 +58,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mubeen-Channa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <br></br>
-
-### 😂 Random Dev Meme
-<img src="https://api.memegen.link/images/random" style="height: 400px;" /> <br>
+GIT_AUTHOR_DATE="2024-06-15T12:00:00" \
 ---
 ---
 <!---
