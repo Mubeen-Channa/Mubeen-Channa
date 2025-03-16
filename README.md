@@ -12,7 +12,7 @@
 - 👋 Hi, I’m @Mubeen-Channa
 - 😎 Want to be a Software Engineer
 - 👀 I’m currently working on something cool 🔥
-- 🌱 Exploring MERN Stack
+- 🌱 Exploring MongoDB
 - 📫 Instagram ~~> @mubeen__channa
 - 🏚️ Hometown : Larkana, Sindh, Pakistan
 
