@@ -13,7 +13,7 @@
 - 😎 Want to be a Software Engineer
 - 👀 I’m currently working on something cool 🔥
 - 🌱 Exploring MongoDB
-- 📫 Instagram ~~> @mubeen__channa
+- 📫 LinkedIn ~~> in/mubeen-channa
 - 🏚️ Hometown : Larkana, Sindh, Pakistan
 
 ### - ⚡ Fun fact I am Khushkuro 🥴
