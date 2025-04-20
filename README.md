@@ -12,7 +12,7 @@
 - 👋 Hi, I’m @Mubeen-Channa
 - 😎 Want to be a Software Engineer
 - 👀 I’m currently working on something cool 🔥
-- 🌱 Exploring MongoDB
+- 🌱 Exploring REACT JS
 - 📫 LinkedIn ~~> in/mubeen-channa
 - 🏚️ Hometown : Larkana, Sindh, Pakistan
 
