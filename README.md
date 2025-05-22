@@ -14,7 +14,7 @@
 - 👀 I’m currently working on something cool 🔥
 - 🌱 Exploring REACT JS
 - 📫 LinkedIn ~~> in/mubeen-channa
-- 🏚️ Hometown : Larkana, Sindh, Pakistan
+- 🏚️ Hometown : Karachi, Sindh, Pakistan
 
 ### - ⚡ Fun fact I am Khushkuro 🥴
 <br></br>
