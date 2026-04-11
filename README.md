@@ -1,23 +1,38 @@
-<img align="center" alt="mubeen-channa-cover" src="GithubBanner.png">
-
-<h1 align="center">Hello 👋, This is Muhammad Mubeen<h1/>
-<h3 align="center">A Passionate Software Engineer From Pakistan<h3/>
-  
-<!-- <img align="right" alt="coding" width="400px"  src="https://github.com/Mubeen-Channa/Mubeen-Channa/blob/main/Github%20Profile%20Giff.gif?raw=true"> -->
+<img align="center" alt="mubeen-channa-cover" src="GithubBanner.png" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mubeen-Channa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 💫 About Me: 
-- 👋 Hi, I’m @Mubeen-Channa
-- 😎 Want to be a Software Engineer
-- 👀 I’m currently working on something cool 🔥
-- 🌱 Exploring NEXT JS
-- 📫 LinkedIn ~~> in/mubeen-channa
-- 🏚️ Hometown : Karachi, Sindh, Pakistan
+<h1 align="center">Hello 👋, I'm Muhammad Mubeen</h1>
+<h3 align="center">A Passionate Software Engineer from Pakistan</h3>
 
-### - ⚡ Fun fact I am Khushkuro 🥴
-<br></br>
+<br>
+
+## 🚀 What I Do
+- 🧱 Build REST APIs using Node.js & Express.js  
+- 📦 Design scalable backend systems  
+- 🔐 Implement authentication (JWT, RBAC, secure middleware)  
+- 🗂️ Work with databases: MongoDB, MySQL, PostgreSQL  
+- 🛠️ Follow clean architecture (MVC, modular structure)  
+- 🚀 Deploy apps on Render, Railway, and Vercel  
+
+<br>
+
+
+
+## 🌱 Currently Learning
+- System design & scalable architectures  
+- Backend performance & security  
+
+<br>
+
+## 💼 Open to Opportunities
+I’m actively looking for:
+- Backend / MERN Internships  
+- Junior Backend Developer roles  
+- Freelance Full Stack projects  
+- Learning-based collaborations  
+
+<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/LEGENDMUBEEN/)
@@ -30,38 +45,47 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@mubeen__channa)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Mubeen__Channa)
 
-<br></br>
+<br>
 
-# 💻 Tech Stack & Language:
-<div align="center">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>
-</div>
-<br></br>
+## 💻 Tech Stack & Tools
 
-# 💻 Other Language:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Data Structures](https://img.shields.io/badge/Data%20Structures-%2300BFFF.svg?style=for-the-badge)
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Object Oriented Programming](https://img.shields.io/badge/OOP-%239C27B0.svg?style=for-the-badge&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+### 🚀 MERN Stack
+[![MERN Stack](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)](https://skillicons.dev)
 
-<br></br>
+### 🎨 Frontend
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap,vite)](https://skillicons.dev)
 
-# 📊 GitHub Stats:
+### ⚙️ Backend
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,npm,redis,firebase,supabase,fastapi)](https://skillicons.dev)
 
+### 🗄️ Database & API
+[![Database](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](https://skillicons.dev)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mubeen-Channa&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-<br></br>
----
----
+### 🛠️ Cloud
+[![Tools](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+
+### 🛠️ Tools & Platforms
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,vscode,postman)](https://skillicons.dev)
+
+<br>
+
+## 💻 Other Languages & Tools
+[![Languages](https://skillicons.dev/icons?i=cpp,java,python,cs,wordpress)](https://skillicons.dev)
+
+<br>
+
+## 📊 GitHub Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mubeen-Channa&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+<br>
+
+## 💡 Dev Philosophy
+"Write clean code. Build scalable systems. Never stop learning."
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=Mubeen-Channa&label=Profile%20views&color=0e75b6&style=flat)
+
 <!---
-Mubeen-Channa/Mubeen-Channa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Mubeen-Channa/Mubeen-Channa is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
